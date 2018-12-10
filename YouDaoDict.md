@@ -1,5 +1,8 @@
 ## 作者 FungLeo：https://github.com/fengcms
 
+> 有道翻译注册地址  https://ai.youdao.com/register.s
+> 有道翻译文档地址  http://ai.youdao.com/docs/doc-trans-api.s
+
 ### 用法：
 
 1. 使用网易邮箱密码登录[有道智云](https://ai.youdao.com/appmgr.s)
